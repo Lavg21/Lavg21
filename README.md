@@ -1,5 +1,6 @@
 ### Hi, I'm Lavinia! 👋🏻👩🏻‍💻
 
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif))
 
 ## 🌐 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavinia-gavrilescu-47b624256) 
