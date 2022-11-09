@@ -1,6 +1,6 @@
 
-![](https://github.com/Lavg21/Lavg21/blob/main/header.gif)
-<!-- Hi, I'm Lavinia! 👋🏻👩🏻‍💻 -->
+<!-- ![](https://github.com/Lavg21/Lavg21/blob/main/header.gif) -->
+Hey, I'm Lavinia! 👋🏻👩🏻‍💻 
 
 ![](https://github.com/Lavg21/Lavg21/blob/main/giphy.webp)
 
