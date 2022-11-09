@@ -1,5 +1,5 @@
-![](https://github.com/Lavg21/Lavg21/blob/main/header.gif) 
-<!--  Hey, I'm Lavinia! 👋🏻👩🏻‍💻 -->
+<!--![](https://github.com/Lavg21/Lavg21/blob/main/header.gif) -->
+Hey, I'm Lavinia! 👋🏻👩🏻‍💻
 
 ## 🌐 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavinia-gavrilescu-47b624256) 
