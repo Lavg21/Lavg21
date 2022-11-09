@@ -1,5 +1,5 @@
 
-![]([https://github.com/Lavg21/Lavg21/blob/main/giphy.webp](https://github.com/Lavg21/Lavg21/blob/main/header.gif))
+![](https://github.com/Lavg21/Lavg21/blob/main/header.gif)
 <!-- Hi, I'm Lavinia! 👋🏻👩🏻‍💻 -->
 
 ![](https://github.com/Lavg21/Lavg21/blob/main/giphy.webp)
