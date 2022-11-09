@@ -1,5 +1,5 @@
 
-<!-- ![](https://github.com/Lavg21/Lavg21/blob/main/header.gif) -->
+ ![](https://github.com/Lavg21/Lavg21/blob/main/header.gif) 
 Hey, I'm Lavinia! 👋🏻👩🏻‍💻 
 
 ## 🌐 Find me on:
