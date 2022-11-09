@@ -1,7 +1,5 @@
 ### Hi, I'm Lavinia! 👋🏻👩🏻‍💻
 
-<iframe src="https://giphy.com/embed/qT3NpahR7tGnOqqjng" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng">via GIPHY</a></p>
-
 ## 🌐 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavinia-gavrilescu-47b624256) 
 
