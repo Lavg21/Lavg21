@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavinia-gavrilescu-47b624256) 
 
 # 💻 Languages and Tools:
-![Java](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=plastic&logo=elm&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenGL](https://img.shields.io/badge/-OpenGL-orange) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-blueviolet) ![Python](https://img.shields.io/badge/-Python-blue) ![C](https://img.shields.io/-C-orange) ![C++](https://img.shields.io/badge/-C++-yellowgreen) ![Elm](https://img.shields.io/badge/-Elm-green) ![Haskell](https://img.shields.io/badge/-Haskell-pink) ![React](https://img.shields.io/badge/-React-purple) ![OpenGL](https://img.shields.io/badge/-OpenGL-red) ![Arduino](https://img.shields.io/badge/-Arduino-purple)
 
 <!-- ![](https://github.com/Lavg21/Lavg21/blob/main/giphy.webp) --?
 
