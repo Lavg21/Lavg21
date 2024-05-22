@@ -6,7 +6,7 @@
 
 # 💻 Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-blueviolet) ![Python](https://img.shields.io/badge/-Python-royalblue) ![C](https://img.shields.io/badge/C-orange) ![C++](https://img.shields.io/badge/-C++-greenyellow) ![Elm](https://img.shields.io/badge/-Elm-forestgreen) ![Haskell](https://img.shields.io/badge/-Haskell-pink) ![React](https://img.shields.io/badge/-React-purple) ![MySQL](https://img.shields.io/badge/-MySQL-rosybrown) ![OracleSQL](https://img.shields.io/badge/-OracleSQL-salmon) ![OpenGL](https://img.shields.io/badge/-OpenGL-darkred) ![Arduino](https://img.shields.io/badge/-Arduino-crimson) ![CSS](https://img.shields.io/badge/-CSS-seagreen)
-![HTML](https://img.shields.io/badge/-HTML-darkolivegreen) ![JavaScript](https://img.shields.io/badge/-JavaScript-palegreen) ![VHDL](https://img.shields.io/badge/-VHDL-darkslateblue)
+![HTML](https://img.shields.io/badge/-HTML-darkolivegreen) ![JavaScript](https://img.shields.io/badge/-JavaScript-palegreen) ![TypeScript](https://img.shields.io/badge/-TypeScript-red) ![Angular](https://img.shields.io/badge/-Angular-blue) ![VHDL](https://img.shields.io/badge/-VHDL-darkslateblue)
 
 <!-- ![](https://github.com/Lavg21/Lavg21/blob/main/giphy.webp) --?
 
